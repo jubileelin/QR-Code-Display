@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Challenge URL: (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- Solution URL: ((https://jubileelin.github.io/QR-Code-Display/))
 
 ### Built with
 
